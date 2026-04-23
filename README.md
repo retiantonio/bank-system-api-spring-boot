@@ -54,7 +54,7 @@ The system is built around three core entities, each enforcing specific banking 
 * **Transactional Integrity:** All multi-step operations are wrapped in `@Transactional` blocks, ensuring an "all-or-nothing" approach to data persistence.
 
 ## 🛠️ Tech Stack
-* **Java 21**
+* **Java 25**
 * **Spring Boot 4.0.3**
 * **Spring Data JPA** (Hibernate 7)
 * **H2 Database** (In-memory for evaluation)
