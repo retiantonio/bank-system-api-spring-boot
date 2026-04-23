@@ -17,7 +17,7 @@
 
 This project manages monetary transfers, account balances, and transaction history with high precision, transactional integrity, and strict business rule enforcement.
 
-## 🏗️ Data Models & Domain "Perks"
+## 🏗️ Data Models
 
 The system is built around three core entities, each enforcing specific banking regulations and technical guards:
 
